@@ -13,4 +13,8 @@
 
 ## Silicon Labs Zigbee Peripheral Examples ##
 
+This repo demonstrates the use of various MCU peripherals with the Silicon Labs Zigbee stack.
+
 ## Examples ##
+
+- Z3Switch with EM4 and GPIO wakeup
