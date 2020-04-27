@@ -17,8 +17,6 @@ This repo demonstrates the use of various MCU peripherals with the Silicon Labs 
 
 ## Examples ##
 
-- Z3Switch with EM4 and GPIO wakeup
-
 ## Documentation ##
 
 Official documentation can be found at our [Developer Documentation](https://docs.silabs.com/zigbee/latest/) page.
